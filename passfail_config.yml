@@ -2,4 +2,4 @@
 services:
 - module: passfail
   criteria:
-  - fail>50%, stop as failed
+  - "fail>50%, stop as failed"
